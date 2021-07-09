@@ -1,3 +1,3 @@
 ## URI Solves
 
-#### Soluçõeos de algumas atividades do URI
+#### Soluções de algumas atividades do URI
